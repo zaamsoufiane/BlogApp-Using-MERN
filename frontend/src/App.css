@@ -1,0 +1,9 @@
+* {
+  padding: 5px;
+box-sizing: border-box;
+}
+
+.main {
+  max-width: 900px;
+  margin: 0 auto;
+}

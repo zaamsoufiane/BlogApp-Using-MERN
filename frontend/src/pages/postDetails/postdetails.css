@@ -1,0 +1,46 @@
+div.post-page a {
+    color: rgb(100, 95, 89);
+}
+
+div.post-page time {
+    display: block;
+    text-align: center;
+    color: #7d7d7ddf;
+    font-size: 0.8rem;    
+}
+div.post-page h1 {
+    margin: 0px 0;   
+}
+
+div.post-page div.creator{
+    text-align: center;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.content p{
+    line-height: 1.5rem;
+    margin: 7px 0;
+}
+
+div.edit{
+    text-align: center;
+
+}
+
+a svg {
+    height: 27px;
+}
+
+
+div.post-page a.editButton{
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background-color: #333;
+    color: #fff;
+    padding: 15px 25px;
+    border-radius: 10px;
+    text-decoration: none;
+
+}
